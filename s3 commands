@@ -1,0 +1,119 @@
+#upload
+aws s3 cp /home/akshaybabu/input.csv s3://setagaya-dev-in/DCF/In/
+
+#download
+aws s3 cp s3://setagaya-dev-in/DCF/Completed/input1.csv .
+
+#list
+aws s3 ls s3://prod-setagaya/
+
+
+##delete file
+aws s3 rm s3://setagaya-dev-in/DCF/In/v_dcf_kjn_shi_20221107.csv
+
+
+
+aws s3 cp s3://setagaya-dev-in/DCF/Export/csvExport_20221104_2.csv
+
+
+aws s3 cp s3://setagaya-dev-in/DCF/Export/csvExport_20221104_2.csv csvExport_20221104_2.csv
+
+
+
+aws s3 rm s3://setagaya-dev-in/DCF/Export/csvExport_20221108_1.csv
+
+
+aws s3 cp s3://setagaya-dev-in/DCF/Completed/v_dcf_kjn_shi_20221107.csv v_dcf_kjn_shi_20221107.csv
+
+
+mysql -h cmic-backendtool-stg.cfwemz38pby9.ap-northeast-1.rds.amazonaws.com -u cmic-backendtool-proddbuser -piU4-Ed$FY$iSL_vVLd)h(h
+
+
+
+
+aws s3 cp s3://setagaya-dev-in/DCF/Completed/v_dcf_kjn_mst_20221107.csv
+
+Gateway server
+IP: 3.112.236.47
+user - ec2-user
+Key - CMIC-Backendtool-TempKey.ppk
+
+Database
+Host - cmic-backendtool-stg.cfwemz38pby9.ap-northeast-1.rds.amazonaws.com
+user - cmic-backendtool-proddbuser
+password - iU4-Ed$FY$iSL_vVLd)h(h
+database - cmic-backendtool
+
+Download from s3
+aws s3 cp s3://setagaya-dev-in/DCF/In/v_dcf_shi_mst_20221110.csv v_dcf_shi_mst_20221110.csv
+
+
+aws s3 cp s3://prod-setagaya/DCF/Export/csvExport_20230511_03.csv csvExport_20230511_03.csv
+
+
+
+
+#upload
+aws s3 cp /home/akshaybabu/input.csv s3://setagaya-dev-in/DCF/In/
+
+
+aws s3 cp /home/ajinthampi/medtronic_button_phase_3_autoload_pswd.js s3://setagaya-dev-in/medtronic_script_files/medtronic_button_phase_3_autoload_pswd.js
+
+/home/ajinthampi/kintone old script/Change-14-7
+
+
+
+aws s3 cp s3://setagaya-dev-in/medtronic_script_files/medtronic_button_phase_2.js medtronic_button_phase_2.js
+
+
+
+medtronic_button.css
+
+aws s3 cp s3://setagaya-dev-in/medtronic_script_files/medtronic_button_phase_3_autoload_pswd.js .
+
+
+
+aws s3 cp s3://prod-setagaya/medtronic_script_files/medtronic_button.css .
+
+
+
+
+upload
+
+aws s3 cp /home/ajinthampi/medtronic_button_phase_3_autoload_pswd.js s3://prod-setagaya/medtronic_script_files/medtronic_button_phase_3_autoload_pswd.js
+
+aws s3 cp /home/ajinthampi/medtronic_button_phase_2.js s3://prod-setagaya/medtronic_script_files/medtronic_button_phase_2.js
+
+aws s3 cp /home/ajinthampi/medtronic_button.css s3://prod-setagaya/medtronic_script_files/medtronic_button.css
+
+
+/home/ajinthampi/medtronic_button_phase_3_autoload_pswd.js
+/home/ajinthampi/medtronic_button_phase_2.js
+
+/home/ajinthampi/medtronic_button.css
+
+
+
+
+Line reminder
+
+aws s3 cp s3://linereminder-stg-data/kintone-script/line_reminder_platform_kintone_button.js .
+
+uploading kintone script to staging
+
+aws s3 cp /home/ajinthampi/line-reminder-kintonescripts/new-from-march14/line_reminder_platform_kintone_button.js s3://linereminder-stg-data/kintone-script/line_reminder_platform_kintone_button.js
+
+ history | grep aws
+
+
+
+aws s3 cp s3://linereminder-stg-data/line_reminder_sms_log/1811/20231124_08e19408-6c65-5677-ad89-c9d25a7521cf.csv  20231124_08e19408-6c65-5677-ad89-c9d25a7521cf.csv
+
+
+
+//production
+aws s3 cp s3://linereminder-prod-data/kintone-script/line_reminder_platform_kintone_button.js .
+
+
+
+aws s3 cp /home/ajinthampi/line-reminder-kintonescripts/production/new-mar-19/line_reminder_platform_kintone_button.js s3://linereminder-prod-data/kintone-script/line_reminder_platform_kintone_button.js
